@@ -1,0 +1,13 @@
+langchain-ollama
+pydantic
+SpeechRecognition
+moviepy
+streamlit
+langchain
+langchain_community
+fastembed
+chromadb
+ollama
+pytesseract
+docx2txt
+pypdf
